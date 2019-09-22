@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_REST_NETCORE", "API_REST_NETCORE.csproj", "{A1988597-6573-4437-AF85-108B58D7AC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1988597-6573-4437-AF85-108B58D7AC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1988597-6573-4437-AF85-108B58D7AC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1988597-6573-4437-AF85-108B58D7AC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1988597-6573-4437-AF85-108B58D7AC88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA72ECC-2C7D-4BDF-B74F-7DC4D5D55C97}
+	EndGlobalSection
+EndGlobal
