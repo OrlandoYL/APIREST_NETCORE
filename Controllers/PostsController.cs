@@ -9,7 +9,7 @@ namespace API_REST_NETCORE.Controllers
     public class PostsController:Controller
     {
         //private List<Post> _posts;
-
+        //
         //public PostsController()
         //{
         //    _posts = new List<Post>();
